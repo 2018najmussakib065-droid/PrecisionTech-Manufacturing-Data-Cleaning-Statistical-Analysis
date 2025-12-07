@@ -1,3 +1,4 @@
+https://www.vecteezy.com/free-photos/data-analysis-banner
 This repository contains a complete workflow for preparing and analyzing manufacturing quality data from PrecisionTech Manufacturing, a producer of precision metal components.
 The project is divided into two phases:
 
