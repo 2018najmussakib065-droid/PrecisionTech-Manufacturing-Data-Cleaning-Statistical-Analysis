@@ -1,4 +1,5 @@
-![Uploading vecteezy_magnifying-glass-and-documents-with-analytics-data-lying-on_5128487.jpg…]()
+![vecteezy_magnifying-glass-and-documents-with-analytics-data-lying-on_5128487](https://github.com/user-attachments/assets/88d20fff-e575-4cbb-bad6-773d106aa7fe)
+
 
 This repository contains a complete workflow for preparing and analyzing manufacturing quality data from PrecisionTech Manufacturing, a producer of precision metal components.
 The project is divided into two phases:
@@ -9,19 +10,19 @@ The project is divided into two phases:
 
 ## Phase 1: Data Preprocessing
 
-> Performed essential preprocessing to make the datasets analysis-ready:
+Performed essential preprocessing to make the datasets analysis-ready:
 
-> Handled missing values (mean/median/mode)
+Handled missing values (mean/median/mode)
 
-> Fixed invalid entries & inconsistent labels
+Fixed invalid entries & inconsistent labels
 
-> Converted data types (datetime, numeric, categorical)
+Converted data types (datetime, numeric, categorical)
 
-> Removed outliers using IQR & domain rules
+Removed outliers using IQR & domain rules
 
-> Reshaped datasets using melt/merge operations
+Reshaped datasets using melt/merge operations
 
-> Engineered features such as DaysSinceCalibration, MeasurementDeviation, etc.
+Engineered features such as DaysSinceCalibration, MeasurementDeviation, etc.
 
 This ensures clean, reliable data for statistical tests.
 
