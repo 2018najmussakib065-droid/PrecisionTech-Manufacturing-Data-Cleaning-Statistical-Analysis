@@ -1,5 +1,4 @@
-C:\Users\najmu\Downloads\vecteezy_magnifying-glass-and-documents-with-analytics-data-lying-on_5128487.jpg
-
+![Uploading vecteezy_magnifying-glass-and-documents-with-analytics-data-lying-on_5128487.jpg…]()
 This repository contains a complete workflow for preparing and analyzing manufacturing quality data from PrecisionTech Manufacturing, a producer of precision metal components.
 The project is divided into two phases:
 
