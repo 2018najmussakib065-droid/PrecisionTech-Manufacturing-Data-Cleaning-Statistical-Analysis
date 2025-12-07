@@ -1,0 +1,21 @@
+OperatorID,OperatorName,HireDate,Department
+OP001,Operator_1,2016-01-27,Production
+OP002,Operator_2,2016-11-18,Maintenance
+OP003,Operator_3,2020-12-22,Maintenance
+OP004,Operator_4,2016-07-28,Quality Assurance
+OP005,Operator_5,2019-04-18,Quality Assurance
+OP006,Operator_6,2016-08-30,Maintenance
+OP007,Operator_7,2017-08-08,Quality Assurance
+OP008,Operator_8,2018-11-03,Production
+OP009,Operator_9,2015-01-28,Production
+OP010,Operator_10,2020-04-23,Maintenance
+OP011,Operator_11,2020-08-16,Production
+OP012,Operator_12,2018-11-17,Quality Assurance
+OP013,Operator_13,2018-12-19,Quality Assurance
+OP014,Operator_14,2015-02-16,Maintenance
+OP015,Operator_15,2020-12-29,Production
+OP016,Operator_16,2016-07-04,Maintenance
+OP017,Operator_17,2018-08-20,Quality Assurance
+OP018,Operator_18,2019-01-25,Quality Assurance
+OP019,Operator_19,2018-09-26,Production
+OP020,Operator_20,2017-11-28,Production
